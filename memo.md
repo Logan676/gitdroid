@@ -1,4 +1,5 @@
 1. config eclipse network:
+3. config eclipse network:
 http://blog.csdn.net/qq635785620/article/details/8191799
 
 2. start shadowsocks server:sslocal -c shadowsocks.json
